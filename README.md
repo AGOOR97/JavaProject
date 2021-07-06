@@ -21,3 +21,7 @@ required Tasks are :
 10. Print skills one by one and how many each repeated and order the output to find out the most important skills required?
 
 11. Factorize the YearsExp feature and convert it to numbers in new col. (Bounce)
+
+DataSet:
+Wuzzuf jobs in Egypt data set at Kaggle
+https://www.kaggle.com/omarhanyy/wuzzuf-jobs
