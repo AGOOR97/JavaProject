@@ -1,7 +1,8 @@
 # JavaProject
 
 This Project is a Java Project in ITI .. AIPro Track 2021
-Our Group is (Ahmed Essam Azab, Mohammed AL-Sayed Agoor, Asmaa Ali Mahmoud)
+Our Group Members are 
+(Ahmed Essam Azab, Mohammed AL-Sayed Agoor, Asmaa Ali Mahmoud)
 
 required Tasks are :
 1. Read data set and convert it to dataframe or Spark RDD and display some from it.
